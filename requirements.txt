@@ -1,0 +1,7 @@
+openwakeword
+faster-whisper
+piper-tts
+sounddevice
+numpy
+requests
+webrtcvad
